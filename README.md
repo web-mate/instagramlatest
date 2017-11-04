@@ -23,4 +23,4 @@ The you can make the requests.
 
 In order to work you have to put accessToken and userid into your index.html file.
 
-then run npm run dev to check if everything goes fine and the you can run build
+then run "npm install", and then you can run  "npm run dev" to check if everything goes fine and the you can run build
